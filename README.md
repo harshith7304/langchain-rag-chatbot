@@ -18,8 +18,8 @@ This repository implements a Retrieval-Augmented Generation (RAG) chatbot using 
    git clone https://github.com/harshith7304/langchain-rag-chatbot.git
    cd langchain-rag-chatbot
 
-
-Replace the API token and pdf file path with the actual paths to your PDF files and update.
+open in colab to view and run the code. Replace the API token and pdf file path with the actual paths to your PDF files 
+and update.
 
 
 
